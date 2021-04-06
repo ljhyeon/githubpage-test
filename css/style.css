@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+} 
+
+#title{
+    font-size: 4rem;
+    text-align: center; /*텍스트를 중간으로*/
+    border-bottom: 1px solid gray;
+    margin:0;
+}
+
+#list{
+    border-right: 1px solid gray;
+    width: 150px;
+    height: 1000px;
+    margin: 0;
+    padding: 20px;
+}
+
+#grid{
+    display: grid;
+    grid-template-columns: 191px 1fr;
+}
+
+#article{
+    padding: 20px;
+}
+
+table{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid gray;
+    padding:10px;
+}

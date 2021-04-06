@@ -1,0 +1,21 @@
+<h1 id="education">Education</h1>
+<table>
+    <tr>
+        <td>School</td>
+        <td>Major</td>
+        <td>Term</td>
+        <td>Graduate</td>
+    </tr>
+    <tr>
+        <td>Hyosung Women High School</td>
+        <td>Natural Sciences</td>
+        <td>2017.03 ~ 2020.02</td>
+        <td>O</td>
+    </tr>
+    <tr>
+        <td>Kyungpook National University</td>
+        <td>Computer Science</td>
+        <td>2020.03 ~ </td>
+        <td>X</td>
+    </tr>
+</table>

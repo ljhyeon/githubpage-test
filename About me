@@ -1,0 +1,9 @@
+<h1 id="aboutme" class="blue">About me</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png" width=25%>
+    <br><strong id="name">이지현</strong>
+    <p>
+        웹 언어 공부 중입니다
+        <br>html
+    </p>
+    <a href="https://www.instagram.com/__ji._.h/" target="_blank"><img src="images/instagram.png" width=5%></a>
+    <a href="https://github.com/ljhyeon" target="_blank"><img src="images/github.png" width=5%></a>
